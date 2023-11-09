@@ -42,7 +42,7 @@
         //var file = 'https://www.verovio.org/editor/brahms.mei';
         
         const app = new Verovio.App(document.getElementById("app"), options);
-        fetch('data/week2.mei')
+        fetch(file)
             .then(function(response) {
                 return response.text();
             })
