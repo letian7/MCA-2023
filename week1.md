@@ -5,7 +5,7 @@
    <br>
    The reason I choose Violin Sonata as my dataset is because I be attracted by the elegant and classic sound made by violin when I first time listen this. In all instrument, I like the violin and piano best, the sounds of these two instruments captivated me. And I always lisen the Sonata for Violin Solo in No.1 in G minor, this is why I choose this as my dataset. <br>
 <br> 
-   This is a example of Sonata for Solo Violin I found in youtube [video about the music]()
+   This is a example of Sonata for Solo Violin I found in youtube [video about the music](https://youtu.be/PZoaEmxrsZQ?si=Lp2wSccpogeob-Rt)
 ### types of data
 <b>musical score</b> : It will include digitized musical scores of these sonatas, allowing users to access and analyze the sheet music for both violin and piano parts. <br>
 <b>metadata</b> : Detailed information about each sonata will be provided, including the composer's biography, historical context, date of composition, key signatures, and any notable characteristics or anecdotes related to the composition.<br>
