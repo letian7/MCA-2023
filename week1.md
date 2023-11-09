@@ -12,6 +12,7 @@
 <b>Audio recording</b>:  The dataset will contain high-quality audio recordings of performances of these sonatas by renowned violinists and pianists, showcasing the interpretations of the compositions.
 
 
+
 ### challenge
 Data Variety: My dataset sonata for violin has many different but similar types music. Also, music data can take various forms, including audio files, sheet music, lyrics, metadata, and more. Managing and analyzing such diverse data types can be one of the challengs.
 
