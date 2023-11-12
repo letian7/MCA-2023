@@ -16,7 +16,10 @@
 ### challenge
 Data Variety: My dataset sonata for violin has many different but similar types music. Also, music data can take various forms, including audio files, sheet music, lyrics, metadata, and more. Managing and analyzing such diverse data types can be one of the challengs.
 
+
 Copyright and Licensing: Music is often protected by copyright, making it difficult to access, share, and analyze music-related data without proper rights and licenses.
+
+<b> [next week task](week2.md) </b>
 
 
 
