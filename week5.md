@@ -10,3 +10,8 @@ data=["Title" "composer" "arranger" "encoder" "lyricts"]
 - date: the date of the file was published
 #### put the chosen elements to the mei file
 
+
+
+## [next week task](week7.md)
+## [last week task](week4.md)
+
