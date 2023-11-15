@@ -12,6 +12,4 @@ data=["Title" "composer" "arranger" "encoder" "lyricts"]
 Here is my updated [mei file](week5.mei) as of week5.
 
 
-## [next week task](week7.md)
-## [last week task](week4.md)
-
+## [&larr; last week task](week4.md) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; [next week task &rarr;](week7.md)
