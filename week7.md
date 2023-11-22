@@ -6,3 +6,4 @@ verovio file {% include_relative verovio_inline.html %}
 
 
 ## [&larr; last week task](week5.md) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; [next week task &rarr;](week8.md)
+## [back to home](README.md)
