@@ -20,7 +20,7 @@ Data Variety: My dataset sonata for violin has many different but similar types 
 Copyright and Licensing: Music is often protected by copyright, making it difficult to access, share, and analyze music-related data without proper rights and licenses.
 
 ## [next week task &rarr;](week2.md) 
-## [back to home](README.MD)
+## [back to home](README.md)
 
 
 
