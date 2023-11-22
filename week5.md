@@ -13,3 +13,4 @@ Here is my updated [mei file](week5.mei) as of week5.
 
 
 ## [&larr; last week task](week4.md) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; [next week task &rarr;](week7.md)
+## [back to home](README.md)
