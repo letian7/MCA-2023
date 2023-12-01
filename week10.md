@@ -1,5 +1,7 @@
 # week10.task
 ## Task 1
+<img width="291" alt="63e692c99f601a88488bfe865c7ead0" src="https://github.com/letian7/MCA-2023/assets/146345116/3c8a6c57-f0ae-4b51-af47-86eb199eb6cd">
+
 
 ## Task 2
 
