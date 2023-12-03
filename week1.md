@@ -14,10 +14,10 @@
 
 
 ### challenge
-Data Variety: My dataset sonata for violin has many different but similar types music. Also, music data can take various forms, including audio files, sheet music, lyrics, metadata, and more. Managing and analyzing such diverse data types can be one of the challengs.
-
-
-Copyright and Licensing: Music is often protected by copyright, making it difficult to access, share, and analyze music-related data without proper rights and licenses.
+Access and Copyright: Many sonatas, especially modern ones, may have restrictions due to copyright laws. Accessing scores and recordings for these works can be challenging without appropriate licenses.
+Curation and Quality: Ensuring the quality and authenticity of the scores and recordings is crucial. Variations in editions and interpretations, especially for older sonatas, can lead to discrepancies in the dataset.
+Distribution: The distribution of music data, particularly audio recordings, can be limited by platform-specific restrictions or geographical limitations.
+Metadata Complexity: Metadata for these sonatas can vary widely, including information about the composer, the period, the specific recording artist, the location of recording, and more. Consistency in metadata is often a challenge.
 
 ## [next week task &rarr;](week2.md) 
 ## [back to home](README.md)
