@@ -14,10 +14,10 @@
 
 
 ### challenge
-Access and Copyright: Many sonatas, especially modern ones, may have restrictions due to copyright laws. Accessing scores and recordings for these works can be challenging without appropriate licenses.
-Curation and Quality: Ensuring the quality and authenticity of the scores and recordings is crucial. Variations in editions and interpretations, especially for older sonatas, can lead to discrepancies in the dataset.
-Distribution: The distribution of music data, particularly audio recordings, can be limited by platform-specific restrictions or geographical limitations.
-Metadata Complexity: Metadata for these sonatas can vary widely, including information about the composer, the period, the specific recording artist, the location of recording, and more. Consistency in metadata is often a challenge.
+<b>Access and Copyright</b>: Many sonatas, especially modern ones, may have restrictions due to copyright laws. Accessing scores and recordings for these works can be challenging without appropriate licenses.<br>
+<b>Curation and Quality</b>: Ensuring the quality and authenticity of the scores and recordings is crucial. Variations in editions and interpretations, especially for older sonatas, can lead to discrepancies in the dataset.<br>
+<b>Distribution</b>: The distribution of music data, particularly audio recordings, can be limited by platform-specific restrictions or geographical limitations.<br>
+<b>Metadata Complexity</b>: Metadata for these sonatas can vary widely, including information about the composer, the period, the specific recording artist, the location of recording, and more. Consistency in metadata is often a challenge.
 
 ## [next week task &rarr;](week2.md) 
 ## [back to home](README.md)
