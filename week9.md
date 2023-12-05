@@ -1,9 +1,9 @@
 # week9.task
-Bomsori kim plays mozart Violin Sonata in E minor
-<img width="324" alt="756e27a5bcf949b838e475cf46325b0" src="https://github.com/letian7/MCA-2023/assets/146345116/c7f73994-4f0c-4a87-bbe6-cd5b1ca9112b">
-Mozart violin sonata for G major
-<img width="326" alt="a64f439f8427edf40e44673ffe53024" src="https://github.com/letian7/MCA-2023/assets/146345116/0fb97f5c-75cb-43c8-ab15-c29ddbe67663">
-Tartini Violin sonata for G minor
+Bomsori kim plays mozart Violin Sonata in E minor<br>
+<img width="324" alt="756e27a5bcf949b838e475cf46325b0" src="https://github.com/letian7/MCA-2023/assets/146345116/c7f73994-4f0c-4a87-bbe6-cd5b1ca9112b"><br>
+Mozart violin sonata for G major<br>
+<img width="326" alt="a64f439f8427edf40e44673ffe53024" src="https://github.com/letian7/MCA-2023/assets/146345116/0fb97f5c-75cb-43c8-ab15-c29ddbe67663"><br>
+Tartini Violin sonata for G minor<br>
 <img width="326" alt="a8aaeafb93e8fd6854822123530cebe" src="https://github.com/letian7/MCA-2023/assets/146345116/a905716b-2778-431b-b66e-224bb658fc40">
 
 ## Visualise historgram
