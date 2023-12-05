@@ -63,6 +63,11 @@
 ### Tartini Violin Sonata in G minor 
 <img width="325" alt="767667a2da43cfdb969ac1e6d46765f" src="https://github.com/letian7/MCA-2023/assets/146345116/c0eb0b9e-c965-437b-bf0a-d99a8a9c5e6e">
 
+## Analysis
+From undertaking this task, it has become evident that waveforms, while fundamental, offer limited immediate information for music analysis. They lack the depth needed for detailed examination. However, when we incorporate time-based frequency visuals, such as spectrograms, the situation changes significantly. These tools provide a wealth of data from the music pieces, converting them into usable information. Spectrograms, in particular, are rich in numerical data like frequencies, allowing for a more comprehensive analysis of the music.For example, in the Tartini Violin Sonata in G minor, the spectogram representation shows a better dipiction of the frequency variation over time.
+
+
+
 ## [&larr; last week task](week7.md) &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; &nbsp;&nbsp;&nbsp; [next week task &rarr;](week9.md)
 ## [back to home](README.md)
 
